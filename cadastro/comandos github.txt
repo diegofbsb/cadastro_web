@@ -1,0 +1,17 @@
+navegue até a pasta do projeto
+
+digite git init
+
+depois selecione o o projeto a se comitar
+git add NOME DO PROJETO
+
+depois informe mensagem do comite
+git commit -m "first commit"
+
+informe o local do repositório
+git remote add origin HTTPS DO REPOSITÓRIO
+
+faça o commit
+it push -u origin master
+
+Informe nome de usuário e senha
